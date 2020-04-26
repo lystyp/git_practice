@@ -8,5 +8,6 @@ int main(int argc, char** argv) {
 	print("");
 	printf("hello little di");
 
+	printf("new function");
     return 0;
 }
